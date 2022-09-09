@@ -1,1 +1,28 @@
 /* styles.css */
+
+body {
+    display:flex;
+    flex-direction:column;
+
+}
+
+header {
+    display: flex;
+}
+
+ul {
+    display:flex;
+    margin:0;
+}
+
+header, footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+
+footer {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
