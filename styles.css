@@ -132,6 +132,14 @@ header, footer, .top {
     font-style: italic;
 }
 
+.source {
+    display:flex;
+    justify-content: flex-end;
+    padding-right: 30px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
 footer {
     display:flex;
     justify-content:center;
