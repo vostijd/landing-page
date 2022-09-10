@@ -36,6 +36,11 @@ header ul {
     font-weight:900;
 }
 
+.small-text {
+    font-size:18px;
+    color:#E5E7EB
+}
+
 header, footer, .top {
     background-color: #1F2937;
 }
