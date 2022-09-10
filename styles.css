@@ -28,6 +28,7 @@ header ul {
 .top {
     display:flex;
     flex-direction:column;
+    color: #f9faf8;
 }
 
 header, footer, .top {
@@ -42,6 +43,7 @@ header, footer, .top {
 .info {
     display:flex;
     background-color: white;
+    justify-content: center;
 
 }
 
