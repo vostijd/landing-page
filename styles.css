@@ -31,6 +31,11 @@ header ul {
     color: #f9faf8;
 }
 
+.large-text{
+    font-size:48px;
+    font-weight:900;
+}
+
 header, footer, .top {
     background-color: #1F2937;
 }
