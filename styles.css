@@ -27,11 +27,19 @@ header ul {
 
 .top {
     display:flex;
-    flex-direction:column;
     color: #f9faf8;
 }
 
+.left, .right {
+    display:flex;
+}
+
+.left {
+    flex-direction:column;
+}
+
 .large-text{
+    display:flex;
     font-size:48px;
     font-weight:900;
 }
