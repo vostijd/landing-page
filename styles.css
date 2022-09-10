@@ -53,7 +53,7 @@ header ul {
     color:#E5E7EB
 }
 
-button {
+.top button {
     color: #f9faf8;
     background-color: #3882f6;
     font-size: 16px;
@@ -140,9 +140,51 @@ header, footer, .top {
     font-weight: 700;
 }
 
+.action {
+    display: flex;
+    justify-content:center;
+}
+
+.container {
+    display:flex;
+    background-color: #3882f6;
+    padding:5em;
+    flex:1;
+    justify-content:space-around;
+    margin: 7em 9em;
+    border-radius: 8px;
+}
+
+.left1 {
+    color: #f9faf8;
+    display:flex;
+    flex-direction: column;
+}
+
+.call-to {
+    font-size:25px;
+    font-weight: 700;
+}
+
+.sign-up {
+    font-size: 18px;
+}
+
+.action button{
+color: #f9faf8;
+background-color: #3882f6;
+font-size: 16px;
+font-weight: 700; 
+border-color:white;
+border-radius: 8px;
+padding: 8px 30px;
+margin-top: 10px;
+}
+
 footer {
     display:flex;
     justify-content:center;
     align-items:center;
     color: #E5E7EB;
+    padding: 30px;
 }
