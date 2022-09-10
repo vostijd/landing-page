@@ -28,6 +28,7 @@ header ul {
 .top {
     display:flex;
     color: #f9faf8;
+    padding: 5ex 20ex;
 }
 
 .left, .right {
